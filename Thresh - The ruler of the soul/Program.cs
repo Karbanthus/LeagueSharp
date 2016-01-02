@@ -107,6 +107,7 @@ namespace ThreshTherulerofthesoul
                 combomenu.AddItem(new MenuItem("FlayPush", "Flay Push Key", true).SetValue(new KeyBind("H".ToCharArray()[0], KeyBindType.Press)));
                 combomenu.AddItem(new MenuItem("FlayPull", "Flay Pull Key", true).SetValue(new KeyBind("J".ToCharArray()[0], KeyBindType.Press)));
                 combomenu.AddItem(new MenuItem("SafeLanternKey", "Safe Lantern Key", true).SetValue(new KeyBind("U".ToCharArray()[0], KeyBindType.Press)));
+                combomenu.AddItem(new MenuItem("AACombo", "Disable AA if can use E", true).SetValue(true));
 
                 config.AddSubMenu(combomenu);
             }
@@ -223,6 +224,17 @@ namespace ThreshTherulerofthesoul
                     }
                     KSCheck(target);
                 }
+
+                if (config.IsBool("AACombo"))
+                {
+                    if (!E.IsReady())
+                        Orbwalking.Attack = true;
+
+                    else
+                        Orbwalking.Attack = false;
+                }
+                else
+                    Orbwalking.Attack = true;
 
                 if (Etarget != null)
                 {

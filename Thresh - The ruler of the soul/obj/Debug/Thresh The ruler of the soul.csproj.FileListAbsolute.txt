@@ -1,0 +1,15 @@
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.exe.config
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.exe
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.pdb
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\LeagueSharp.Common.dll
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\LeagueSharp.dll
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\SharpDX.dll
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\clipper_library.dll
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\bin\Release\LeagueSharp.xml
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\obj\Debug\Thresh The ruler of the soul.csprojResolveAssemblyReference.cache
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\obj\Debug\Thresh - The ruler of the soul.exe
+C:\Users\Karbanthus\Documents\GitHub\Thresh - The ruler of the soul\obj\Debug\Thresh - The ruler of the soul.pdb
+C:\Users\Karbanthus\Source\Repos\LeagueSharp\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.exe.config
+C:\Users\Karbanthus\Source\Repos\LeagueSharp\Thresh - The ruler of the soul\obj\Debug\Thresh - The ruler of the soul.exe
+C:\Users\Karbanthus\Source\Repos\LeagueSharp\Thresh - The ruler of the soul\obj\Debug\Thresh - The ruler of the soul.pdb
